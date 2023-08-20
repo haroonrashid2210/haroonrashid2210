@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Haroon Rashid</h1>
 
-<!--
-**haroonrashid2210/haroonrashid2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,react,nextjs,git,aws,bootstrap,css,express,figma,firebase,github,html,js,linux,md,materialui,mongodb,mysql,postman,redux,ts,vscode,graphql,androidstudio,gitlab,nginx,postgres,postman,prisma,sqlite,styledcomponents,sequelize,vercel,xd&perline=7" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://linkedin.com/in/haroonrashid2210"><img src="https://img.shields.io/badge/-Haroon%20Rashid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:haroonrashid2210@gmail.com"><img src="https://img.shields.io/badge/haroonrashid2210@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+</p>
