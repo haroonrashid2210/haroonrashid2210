@@ -9,6 +9,6 @@
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/haroonrashid2210"><img src="https://img.shields.io/badge/-Haroon%20Rashid-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:haroonrashid2210@gmail.com"><img src="https://img.shields.io/badge/haroonrashid2210@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/haroonrashid2210"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:haroonrashid2210@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
